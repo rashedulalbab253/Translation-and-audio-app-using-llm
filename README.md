@@ -2,6 +2,11 @@
 
 This repository contains a Gradio-powered web application for translating text between English, Chinese, and Japanese and chatting with an AI assistant. The app utilizes a local Large Language Model (LLM) (Qwen/Qwen2-1.5B-Instruct) for translation and conversation, and generates spoken output using Google Text-to-Speech (gTTS).
 
+## ⚠️ Note
+
+> My previous GitHub account was unexpectedly suspended. This project was originally created earlier and has been re-uploaded here. All work was done gradually over time, and original commit history has been preserved where possible.
+
+
 ## Features
 
 - **Translate Text:** Instantly translate text between English, Chinese, and Japanese.
